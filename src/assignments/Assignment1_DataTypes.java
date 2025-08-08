@@ -46,7 +46,7 @@ public class Assignment1_DataTypes {
 		System.out.println(year);
 
 		//11.Number of followers on a social media platform: 1,000,000
-		long followers = 1000000l;
+		String followers = "1,000,000";
 		System.out.println(followers);
 
 		// 12.Rating of a movie: 7.5

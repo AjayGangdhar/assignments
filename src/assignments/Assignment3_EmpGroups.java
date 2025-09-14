@@ -1,6 +1,6 @@
 package assignments;
 
-public class Assignemnet3_EmpGroups {
+public class Assignment3_EmpGroups {
 
 	public static void main(String[] args) {
 	
